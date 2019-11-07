@@ -5,4 +5,4 @@
 - **Contexte du choix de cours**: Le code est omniprésent de nos jours et en avoir les connaissances de base permettra de mieux comprendre le monde qui nous entoure et d'appréhender le monde du travail. Aussi, Pierre a fait ISN en Terminale.
 
 ### **Description du cours**
-Grâce àThe Hacking Project nous apprenons les bases du codage en html et à créer nos propres sites internet. De plus le cours est interactif grâce au peer learning.
+Grâce à The Hacking Project nous apprenons les bases du codage en html et à créer nos propres sites internet. De plus le cours est interactif grâce au peer learning.
